@@ -1,0 +1,18 @@
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.deps.json
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.pdb
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.csprojAssemblyReference.cache
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.AssemblyInfoInputs.cache
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.AssemblyInfo.cs
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.pdb
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.deps.json
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\bin\Debug\netcoreapp3.1\BasicCrm.Entities.pdb
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.csprojAssemblyReference.cache
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.AssemblyInfoInputs.cache
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.AssemblyInfo.cs
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\emrey\Desktop\Github\Dinamik360-BasicCrm\BasicCrm\BasicCrm.Entities\obj\Debug\netcoreapp3.1\BasicCrm.Entities.pdb

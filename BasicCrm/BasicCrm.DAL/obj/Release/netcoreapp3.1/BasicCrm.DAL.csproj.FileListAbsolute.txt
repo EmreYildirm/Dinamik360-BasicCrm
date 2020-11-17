@@ -1,0 +1,15 @@
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\bin\Release\netcoreapp3.1\BasicCrm.DAL.deps.json
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\bin\Release\netcoreapp3.1\BasicCrm.DAL.runtimeconfig.json
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\bin\Release\netcoreapp3.1\BasicCrm.DAL.runtimeconfig.dev.json
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\bin\Release\netcoreapp3.1\BasicCrm.DAL.dll
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\bin\Release\netcoreapp3.1\BasicCrm.DAL.pdb
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\bin\Release\netcoreapp3.1\BasicCrm.Entities.dll
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\bin\Release\netcoreapp3.1\BasicCrm.Entities.pdb
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\obj\Release\netcoreapp3.1\BasicCrm.DAL.csprojAssemblyReference.cache
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\obj\Release\netcoreapp3.1\BasicCrm.DAL.AssemblyInfoInputs.cache
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\obj\Release\netcoreapp3.1\BasicCrm.DAL.AssemblyInfo.cs
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\obj\Release\netcoreapp3.1\BasicCrm.DAL.csproj.CoreCompileInputs.cache
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\obj\Release\netcoreapp3.1\BasicCrm.DAL.csproj.CopyComplete
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\obj\Release\netcoreapp3.1\BasicCrm.DAL.dll
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\obj\Release\netcoreapp3.1\BasicCrm.DAL.pdb
+C:\Users\emrey\Desktop\İş Görüşmesi\BasicCrm\BasicCrm.DAL\obj\Release\netcoreapp3.1\BasicCrm.DAL.genruntimeconfig.cache

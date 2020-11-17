@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0NgrS3lJ10u4uRaOpyQxlwAAAAACAAAAAAAQZgAAAAEAACAAAADFAE/0Bu3AgLo2v8ESC/wcx2XLIwiwEVnlsf7Tk/z4VQAAAAAOgAAAAAIAACAAAAD4ZzFXrU9s7fstELYRoBLps4if/UlW8I+5LsMNQeRv9CAAAACRvp/Wdva3GXmFxWMpygkQF5UmTRYvDPBt0pnuhVAsdEAAAADoErZBSHM6dJBgzhlxpliO4WT2KiUjoj/zZwwz2mg7DmE5lkRXKFbpHXUWnjX/sBcyBw2vfX1zEDOt7rSTMdzI</EncryptedPassword>
+    <_PublishTargetUrl>https://lorpeynir52-001-site1.btempurl.com:8172/MsDeploy.axd?site=lorpeynir52-001-site1/lorpeynir52-001-site1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>DataSource=sql5091.site4now.net,Initial Catalog=DB_A6AAF0_basicrmdb,TrustedServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
