@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3JijD1EJILD55DS4otlBjmEMCZinQULTtxFy6NX01DuAbV0/GM7guHVBCAUsQ6Uv817OuzyIP7JANvnGOy5Hpw==",
+  "dgSpecHash": "67MTreVpNrzMzGcrFwJ7qX0A5Xs0A7Qjvkwj6/CRrPua8U0M0gYuUJv93p3hNHV2SJ4MOom5I3Jr7EU/Bf+0sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj",
+  "projectFilePath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrey\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.0\\microsoft.aspnetcore.cryptography.internal.5.0.0.nupkg.sha512",
     "C:\\Users\\emrey\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.0\\microsoft.aspnetcore.cryptography.keyderivation.5.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj": {}
+    "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj": {
+    "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj",
         "projectName": "BasicCrm.Entities",
-        "projectPath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj",
+        "projectPath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj",
         "packagesPath": "C:\\Users\\emrey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.Entities\\obj\\",
+        "outputPath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

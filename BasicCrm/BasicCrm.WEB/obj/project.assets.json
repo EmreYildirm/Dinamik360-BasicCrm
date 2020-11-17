@@ -9291,11 +9291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.WEB\\BasicCrm.WEB.csproj",
+      "projectUniqueName": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.WEB\\BasicCrm.WEB.csproj",
       "projectName": "BasicCrm.WEB",
-      "projectPath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.WEB\\BasicCrm.WEB.csproj",
+      "projectPath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.WEB\\BasicCrm.WEB.csproj",
       "packagesPath": "C:\\Users\\emrey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.WEB\\obj\\",
+      "outputPath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -9315,8 +9315,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.BLL\\BasicCrm.BLL.csproj": {
-              "projectPath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.BLL\\BasicCrm.BLL.csproj"
+            "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.BLL\\BasicCrm.BLL.csproj": {
+              "projectPath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.BLL\\BasicCrm.BLL.csproj"
             }
           }
         }

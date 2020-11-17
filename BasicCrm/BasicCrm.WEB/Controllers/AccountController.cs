@@ -38,16 +38,6 @@ namespace BasicCrm.WEB.Controllers
                 var result = await signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, false);
                 if (result.Succeeded)
                 {
-                    /*
-                    if (Request.Query.Keys.Contains("ReturnUrl"))
-                    {
-                        return Redirect(Request.Query["ReturnUrl"].First());
-                    }
-                    else
-                    {
-                        RedirectToAction("Index", "Home");
-                    }
-                    */
                     RedirectToAction("Index", "Customer");
                 }
             }
@@ -71,26 +61,24 @@ namespace BasicCrm.WEB.Controllers
         {
             if (ModelState.IsValid)
             {
-                // Copy data from RegisterViewModel to IdentityUser
+                
                 var user = new AppUser
                 {
                     UserName = model.Email,
                     Email = model.Email
                 };
 
-                // Store user data in AspNetUsers database table
+                
                 var result = await userManager.CreateAsync(user, model.Password);
 
-                // If user is successfully created, sign-in the user using
-                // SignInManager and redirect to index action of HomeController
+                
                 if (result.Succeeded)
                 {
                     await signInManager.SignInAsync(user, isPersistent: false);
                     return RedirectToAction("Index", "Customer");
                 }
 
-                // If there are any errors, add them to the ModelState object
-                // which will be displayed by the validation summary tag helper
+                
                 foreach (var error in result.Errors)
                 {
                     ModelState.AddModelError(string.Empty, error.Description);

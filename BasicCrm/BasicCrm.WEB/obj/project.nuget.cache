@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LIB0rHKfMWMIJzWPBVm+kIPIZyo5659xOxXkqQSX5rPyrjpQqv6qX1LKMJb7fiIAuq7yU2OakQQAvI+z05Utaw==",
+  "dgSpecHash": "mXQIrYorvu86GmVEs9Ms9M+V57ogXpkLsusQFz9QOCRldHXBaKwhuurLy75EynUgQYEc/RRGAeUDZxs+WMb/Tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.WEB\\BasicCrm.WEB.csproj",
+  "projectFilePath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.WEB\\BasicCrm.WEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrey\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\emrey\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

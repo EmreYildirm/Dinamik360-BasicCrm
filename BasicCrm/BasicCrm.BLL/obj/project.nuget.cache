@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0mLjCL5iurejiYT9QzHfT4Ov7R6mRy6LbYy8fW+g6LtoMgmEKPp+BHjwJZXw+hM392GQyO5VN3pD8lceaNzlPg==",
+  "dgSpecHash": "I5JUXezHqOHmmQzqRSmT8Y75Cv56RQ4nMnWe6ngMO0lW4+TR7nPszLFNU92ayzoF5dCR+VynpOgG/mwOQSexSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.BLL\\BasicCrm.BLL.csproj",
+  "projectFilePath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.BLL\\BasicCrm.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrey\\.nuget\\packages\\bootstrap\\4.0.0\\bootstrap.4.0.0.nupkg.sha512",
     "C:\\Users\\emrey\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",

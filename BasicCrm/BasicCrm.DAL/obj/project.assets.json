@@ -5246,11 +5246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.DAL\\BasicCrm.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.DAL\\BasicCrm.DAL.csproj",
       "projectName": "BasicCrm.DAL",
-      "projectPath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.DAL\\BasicCrm.DAL.csproj",
+      "projectPath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.DAL\\BasicCrm.DAL.csproj",
       "packagesPath": "C:\\Users\\emrey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.DAL\\obj\\",
+      "outputPath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5270,8 +5270,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj": {
-              "projectPath": "C:\\Users\\emrey\\Desktop\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj"
+            "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj": {
+              "projectPath": "C:\\Users\\emrey\\Desktop\\Github\\Dinamik360-BasicCrm\\BasicCrm\\BasicCrm.Entities\\BasicCrm.Entities.csproj"
             }
           }
         }
