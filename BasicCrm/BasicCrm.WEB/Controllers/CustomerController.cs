@@ -30,7 +30,7 @@ namespace BasicCrm.WEB.Controllers
             return View(customersResources);
         }
 
-        // GET: Home/Details/5
+        
         public IActionResult Detail(int? id)
         {
             if (id == null)
@@ -46,13 +46,13 @@ namespace BasicCrm.WEB.Controllers
             return View(customerResource);
         }
 
-        // GET: Home/Create
+        
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Products/Create
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(SaveCustomerViewModel saveCustomerViewModel)
@@ -66,7 +66,7 @@ namespace BasicCrm.WEB.Controllers
             return View(saveCustomerViewModel);
         }
 
-        // GET: Products/Edit/5
+        
         public IActionResult Edit(int? id)
         {
             if (id == null)
@@ -83,7 +83,7 @@ namespace BasicCrm.WEB.Controllers
             return View(customerViewModel);
         }
 
-        // POST: Products/Edit/5
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id,CustomerViewModel customerViewModel)
@@ -116,7 +116,7 @@ namespace BasicCrm.WEB.Controllers
             return View(customerViewModel);
         }
 
-        // GET: Products/Delete/5
+        
         public IActionResult Delete(int? id)
         {
             if (id == null)
@@ -134,7 +134,7 @@ namespace BasicCrm.WEB.Controllers
             return View(customerViewModel);
         }
 
-        // POST: Products/Delete/5
+        
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirmed(int id)
